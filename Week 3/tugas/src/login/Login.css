@@ -1,0 +1,43 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+div{
+    text-align: center;
+    padding-top: 5px;
+}
+form{
+    border:  3px solid gainsboro;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 10px;
+    align-items: center;
+    font-size:18px;
+}
+h1{
+    padding-bottom:25px ;
+}
+label{
+    font-weight: bold;
+}
+buttonLogin{
+    background-color:#4CAF50;
+    color:white;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 90px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+}
+buttonCancel{
+    background-color:#ff2314;
+    color:white;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 40px;
+}

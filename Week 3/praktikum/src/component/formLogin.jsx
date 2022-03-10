@@ -1,7 +1,7 @@
 import React from 'react';
-import './Login.css'
+import './formLogin.css';
 
-export default function Login() {
+const FormLogin = () => {
     return(
         <div className="login">
             <h1>Form Login</h1>
@@ -26,3 +26,6 @@ export default function Login() {
       </div>
     )
   }
+
+//agar component ini dapat dipakai di mana saja
+export default FormLogin;

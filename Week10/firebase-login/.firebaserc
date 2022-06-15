@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "pbf10-a160c",
+    "10pbf": "pbf10-a160c"
+  },
+  "targets": {}
+}

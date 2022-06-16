@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Hendri Daffa A",
+      "hp": "082334759108",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Mojokerto",
+      "NIM": "1941720199"
+    },
+    {
+      "id": 2,
+      "nama": "Auzan Ihtifazuddin F. Z. H.",
+      "hp": "081234018065",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Jember",
+      "NIM": "1941720110"
+    },
+    {
+      "id": 3,
+      "nama": "Pramudya Wibowo",
+      "hp": "082244101304",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Probolinggo",
+      "NIM": "1941720054"
+    }
+  ]
+}
